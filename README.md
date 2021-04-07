@@ -1,1 +1,1 @@
-# this is food delivery app using django.
+# This is food delivery app using django.
